@@ -1,9 +1,10 @@
 /*+++++++++++++++ BODY +++++++++++++++ */
 body {
     font-family: 'Open Sans', sans-serif;
-    color: #393d41 ;
+    /*color: #393d41 ;*/
     font-size: 1.5rem;
     line-height: 1.65;
+    color: red;
 }
 /*++++++++++++++ HEADER ++++++++++++++++++++*/
 header {
